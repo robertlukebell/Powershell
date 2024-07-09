@@ -1,0 +1,393 @@
+<Teams>
+
+	<Angels>
+		<Name>Angels</Name>
+		<City>Los Angeles</City>
+		<League>American League</League>
+		<FullName>Los Angeles Angels</FullName>
+		<Street>2000 E Gene Autry Way,</Street>
+		<PostalCity>Anaheim</PostalCity>
+		<State>CA,</State>
+		<Zip>92806</Zip>
+		<OU>ou=angels,ou=west,ou=al,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>rwashington</Manager>
+	</Angels>
+    
+	<Astros>
+		<Name>Astros</Name>
+		<City>Houston</City>
+		<League>American League</League>
+		<FullName>Houston Astros</FullName>
+		<Street>501 Crawford St</Street>
+		<PostalCity>Houston</PostalCity>
+		<State>TX</State>
+		<Zip>77002</Zip>
+		<OU>ou=astros,ou=west,ou=al,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>jespada</Manager>
+	</Astros>
+
+	<Athletics>
+		<Name>Athletics</Name>
+		<City>Oakland</City>
+		<League>American League</League>
+		<FullName>Oakland Athletics</FullName>
+		<Street>700 73rd Ave</Street>
+		<PostalCity>Oakland</PostalCity>
+		<State>CA</State>
+		<Zip>94621</Zip>
+		<OU>ou=athletics,ou=west,ou=al,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>mkotsay</Manager>
+	</Athletics>
+
+	<BlueJays>	
+		<Name>Blue Jays</Name>
+		<City>Toronto</City>
+		<League>American League</League>
+		<FullName>Toronto Blue Jays</FullName>
+		<Street>1 Blue Jays Way</Street>
+		<PostalCity>Toronto</PostalCity>
+		<State>ON</State>
+		<Zip>M5V 1J1</Zip>
+		<OU>ou=bluejays,ou=east,ou=al,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>jschneider</Manager>
+	</BlueJays>
+
+	<Braves>
+		<Name>Braves</Name>
+		<City>Atlanta</City>
+		<League>National League</League>
+		<FullName>Atlanta Braves</FullName>
+		<Street>755 Battery Ave. SE</Street>
+		<PostalCity>Atlanta</PostalCity>
+		<State>GA</State>
+		<Zip>30339</Zip>
+		<OU>ou=braves,ou=east,ou=nl,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>bsnitker</Manager>
+	</Braves>
+		
+	<Brewers>	
+		<Name>Brewers</Name>
+		<City>Milwaukee</City>
+		<League>National League</League>
+		<FullName>Milwaukee Brewers</FullName>
+		<Street>One Brewers Way</Street>
+		<PostalCity>Milwaukee</PostalCity>
+		<State>WI</State>
+		<Zip>53214</Zip>
+		<OU>ou=brewers,ou=central,ou=nl,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>pmurphy</Manager>
+	</Brewers>
+
+	<Cardinals>
+		<Name>Cardinals</Name>
+		<City>St. Louis</City>
+		<League>National League</League>
+		<FullName>St. Louis Cardinals</FullName>
+		<Street>700 Clark Ave</Street>
+		<PostalCity>Saint Louis</PostalCity>
+		<State>MO</State>
+		<Zip>63102</Zip>
+		<OU>ou=cardinals,ou=central,ou=nl,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>omarmol</Manager>
+	</Cardinals>
+		
+	<Cubs>
+		<Name>Cubs</Name>
+		<City>Chicago</City>
+		<League>National League</League>
+		<FullName>Chicago Cubs</FullName>
+		<Street>1060 W Addison St</Street>
+		<City>Chicago</City>
+		<State>IL</State>
+		<Zip>60613</Zip>
+		<OU>ou=cubs,ou=central,ou=nl,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>dross</Manager>
+	</Cubs>
+
+	<Diamondbacks>	
+		<Name>Diamondbacks</Name>
+		<City>Arizona</City>
+		<League>National League</League>
+		<FullName>Arizona Diamondbacks</FullName>
+		<Street>401 E Jefferson St</Street>
+		<PostalCity>Phoenix</PostalCity>
+		<State>AZ</State>
+		<Zip>85004</Zip>
+		<OU>ou=diamondbacks,ou=west,ou=nl,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>tlovullo</Manager>
+	</Diamondbacks>
+
+	<Dodgers>
+		<Name>Dodgers</Name>
+		<City>Los Angeles</City>
+		<League>National League</League>
+		<FullName>Los Angeles Dodgers</FullName>
+		<Street>1000 Elysian Park Ave</Street>
+		<PostalCity>Los Angeles</PostalCity>
+		<State>CA</State>
+		<Zip>90012</Zip>
+		<OU>ou=dodgers,ou=west,ou=nl,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>droberts</Manager>
+	</Dodgers>
+		
+	<Giants>	
+		<Name>Giants</Name>
+		<City>San Francisco</City>
+		<League>National League</League>
+		<FullName>San Francisco Giants</FullName>
+		<Street>24 Willie Mays Plz</Street>
+		<PostalCity>San Francisco</PostalCity>
+		<State>CA</State>
+		<Zip>94107</Zip>
+		<OU>ou=giants,ou=west,ou=nl,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>bmelvin</Manager>
+	</Giants>
+
+	<Guardians>
+		<Name>Guardians</Name>
+		<City>Cleveland</City>
+		<League>American League</League>
+		<FullName>Cleveland Guardians</FullName>
+		<Street>2401 Ontario St</Street>
+		<PostalCity>Cleveland</PostalCity>
+		<State>OH</State>
+		<Zip>44115</Zip>
+		<OU>ou=guardians,ou=central,ou=al,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>svogt</Manager>
+	</Guardians>
+		
+	<Mariners>
+		<Name>Mariners</Name>
+		<City>Seattle</City>
+		<League>American League</League>
+		<FullName>Seattle Mariners</FullName>
+		<Street>1250 1st Ave S</Street>
+		<PostalCity>Seattle</PostalCity>
+		<State>WA</State>
+		<Zip>98134</Zip>
+		<OU>ou=mariners,ou=west,ou=al,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>sservais</Manager>
+	</Mariners>
+		
+	<Marlins>
+		<Name>Marlins</Name>
+		<City>Miami</City>
+		<League>National League</League>
+		<FullName>Miami Marlins</FullName>
+		<Street>501 Marlins Way</Street>
+		<PostalCity>Miami</PostalCity>
+		<State>FL</State>
+		<Zip>33125</Zip>
+		<OU>ou=marlins,ou=east,ou=nl,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>sschumaker</Manager>
+	</Marlins>
+		
+	<Mets>
+		<Name>Mets</Name>
+		<City>New York</City>
+		<League>National League</League>
+		<FullName>New York Mets</FullName>
+		<Street>123-01 Roosevelt Ave</Street>
+		<PostalCity>Flushing</PostalCity>
+		<State>NY</State>
+		<Zip>11368</Zip>
+		<OU>ou=mets,ou=east,ou=nl,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>cmendoza</Manager>
+	</Mets>
+
+	<Nationals>
+		<Name>Nationals</Name>
+		<City>Washington</City>
+		<League>National League</League>
+		<FullName>Washington Nationals</FullName>
+		<Street>1500 S Capitol St SE</Street>
+		<PostalCity>Washington</PostalCity>
+		<State>DC</State>
+		<Zip>20003</Zip>
+		<OU>ou=nationals,ou=east,ou=nl,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>dmartinez</Manager>
+	</Nationals>
+		
+	<Orioles>
+		<Name>Orioles</Name>
+		<City>Baltimore</City>
+		<League>American League</League>
+		<FullName>Baltimore Orioles</FullName>
+		<Street>333 W Camden St</Street>
+		<PostalCity>Baltimore</PostalCity>
+		<State>MD</State>
+		<Zip>21201</Zip>
+		<OU>ou=orioles,ou=east,ou=al,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>bhyde</Manager>
+	</Orioles>
+
+	<Padres>    
+		<Name>Padres</Name>
+		<City>San Diego</City>
+		<League>National League</League>
+		<FullName>San Diego Padres</FullName>
+		<Street>100 Park Blvd</Street>
+		<PostalCity>San Diego</PostalCity>
+		<State>CA</State>
+		<Zip>92101</Zip>
+		<OU>ou=padres,ou=west,ou=nl,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>mshildt</Manager>
+	</Padres>
+		
+	<Phillies>
+		<Name>Phillies</Name>
+		<City>Philadelphia</City>
+		<League>National League</League>
+		<FullName>Philadelphia Phillies</FullName>
+		<Street>1 Citizens Bank Way Ofc</Street>
+		<PostalCity>Philadelphia</PostalCity>
+		<State>PA</State>
+		<Zip>19148</Zip>
+		<OU>ou=phillies,ou=east,ou=nl,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>rthomson</Manager>
+	</Phillies>
+		
+	<Pirates>	
+		<Name>Pirates</Name>
+		<City>Pittsburgh</City>
+		<League>National League</League>
+		<FullName>Pittsburgh Pirates</FullName>
+		<Street>115 Federal St</Street>
+		<PostalCity>Pittsburgh</PostalCity>
+		<State>PA</State>
+		<Zip>15212</Zip>
+		<OU>ou=pirates,ou=central,ou=nl,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>dshelton</Manager>
+	</Pirates>
+		
+	<Rangers>
+		<Name>Rangers</Name>
+		<City>Texas</City>
+		<League>American League</League>
+		<FullName>Texas Rangers</FullName>
+		<Street>734 Stadium Dr</Street>
+		<PostalCity>Arlington</PostalCity>
+		<State>TX</State>
+		<Zip>76011</Zip>
+		<OU>ou=rangers,ou=west,ou=al,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>bbochy</Manager>
+	</Rangers>
+
+	<Rays>
+		<Name>Rays</Name>
+		<City>Tampa Bay</City>
+		<League>American League</League>
+		<FullName>Tampa Bay Rays</FullName>
+		<Street>1 Tropicana Dr</Street>
+		<PostalCity>Saint Petersburg</PostalCity>
+		<State>FL</State>
+		<Zip>33705</Zip>
+		<OU>ou=rays,ou=east,ou=al,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>kcash</Manager>
+	</Rays>
+		
+	<Reds>	
+		<Name>Reds</Name>
+		<City>Cincinnati</City>
+		<League>National League</League>
+		<FullName>Cincinnati Reds</FullName>
+		<Street>100 Joe Nuxhall Way</Street>
+		<PostalCity>Cincinnati</PostalCity>
+		<State>OH</State>
+		<Zip>45202</Zip>
+		<OU>ou=reds,ou=central,ou=nl,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>dbell</Manager>
+	</Reds>
+
+	<RedSox>    
+		<Name>Red Sox</Name>
+		<City>Boston</City>
+		<League>American League</League>
+		<FullName>Boston Red Sox</FullName>
+		<Street>4 Jersey St</Street>
+		<PostalCity>Boston</PostalCity>
+		<State>MA</State>
+		<Zip>02215</Zip>
+		<OU>ou=redsox,ou=east,ou=al,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>acora</Manager>
+	</RedSox>
+		
+	<Rockies>
+		<Name>Rockies</Name>
+		<City>Colorado</City>
+		<League>National League</League>
+		<FullName>Colorado Rockies</FullName>
+		<Street>2001 Blake St</Street>
+		<PostalCity>Denver</PostalCity>
+		<State>CO</State>
+		<Zip>80205</Zip>
+		<OU>ou=rockies,ou=west,ou=nl,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>bblack</Manager>
+	</Rockies>
+		
+	<Royals>	
+		<Name>Royals</Name>
+		<City>Kansas City</City>
+		<League>American League</League>
+		<FullName>Kansas City Royals</FullName>
+		<Street>1 Royal Way</Street>
+		<PostalCity>Kansas City</PostalCity>
+		<State>MO</State>
+		<Zip>64129</Zip>
+		<OU>ou=royals,ou=central,ou=al,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>mquatraro</Manager>
+	</Royals>
+		
+	<Tigers>
+		<Name>Tigers</Name>
+		<City>Detroit</City>
+		<League>American League</League>
+		<FullName>Detroit Tigers</FullName>
+		<Street>2100 Woodward Ave</Street>
+		<PostalCity>Detroit</PostalCity>
+		<State>MI</State>
+		<Zip>48201</Zip>
+		<OU>ou=tigers,ou=central,ou=al,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>ahinch</Manager>
+	</Tigers>
+
+	<Twins>	
+		<Name>Twins</Name>
+		<City>Minnesota</City>
+		<League>American League</League>
+		<FullName>Minnesota Twins</FullName>
+		<Street>1 Twins Way</Street>
+		<PostalCity>Minneapolis</PostalCity>
+		<State>MN</State>
+		<Zip>55403</Zip>
+		<OU>ou=twins,ou=central,ou=al,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>rbaldelli</Manager>
+	</Twins>
+		
+	<WhiteSox>
+		<Name>White Sox</Name>
+		<City>Chicago</City>
+		<League>American League</League>
+		<FullName>Chicago White Sox</FullName>
+		<Street>333 West 35th Street</Street>
+		<PostalCity>Chicago</PostalCity>
+		<State>IL</State>
+		<Zip>60616</Zip>
+		<OU>ou=whitesox,ou=central,ou=al,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>pgrifol</Manager>
+	</WhiteSox>
+		
+	<Yankees>	
+		<Name>Yankees</Name>
+		<City>New York</City>
+		<League>American League</League>
+		<FullName>New York Yankees</FullName>
+		<Street>1 E 161st St</Street>
+		<PostalCity>Bronx</PostalCity>
+		<State>NY</State>
+		<Zip>10451</Zip>
+		<OU>ou=yankees,ou=east,ou=al,ou=mlb,dc=ad,dc=mlb,dc=lan</OU>
+		<Manager>aboone</Manager>
+	</Yankees>
+
+</Teams>
